@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/verify-method/route": "/api/verify-method",
+  "/api/2fa/route": "/api/2fa",
+  "/api/visitor/route": "/api/visitor",
+  "/api/login/route": "/api/login",
+  "/2fa/page": "/2fa",
+  "/loading/page": "/loading",
+  "/verify-method/page": "/verify-method",
+  "/page": "/"
+}

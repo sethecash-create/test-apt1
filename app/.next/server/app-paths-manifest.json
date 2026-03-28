@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/verify-method/route": "app/api/verify-method/route.js",
+  "/api/2fa/route": "app/api/2fa/route.js",
+  "/api/visitor/route": "app/api/visitor/route.js",
+  "/api/login/route": "app/api/login/route.js",
+  "/2fa/page": "app/2fa/page.js",
+  "/loading/page": "app/loading/page.js",
+  "/verify-method/page": "app/verify-method/page.js",
+  "/page": "app/page.js"
+}
